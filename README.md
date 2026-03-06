@@ -1,16 +1,53 @@
-## Hi there 👋
+## Hi, I'm Zsolt-Peter Olah
 
-<!--
-**Csicsike76/Csicsike76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent software developer from Satu Mare, Romania. I build mobile apps and web platforms that solve real-world problems.
 
-Here are some ideas to get you started:
+### What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Forestry Pro** - Professional forest inventory & timber volume calculator for foresters, timber traders, and researchers. 31 languages, 18 calculation methods, offline-first.
+
+**Animal Codex** - Offline pet health records app. Vaccinations, medications, vet visits, weight tracking — all private, no cloud required.
+
+**ShoutToGo** - Off-grid mesh communication app + hardware. BLE mesh networking, SOS alerts, no internet needed.
+
+**FocusMester** - AI-powered receptionist platform for small businesses. Automated calls, email reports, real-time dashboard.
+
+### Tech Stack
+
+- **Mobile:** Ionic, React, Capacitor, Kotlin
+- - **Frontend:** TypeScript, React, Tailwind CSS
+  - - **Backend:** Supabase (PostgreSQL, Edge Functions), Node.js
+    - - **AI/ML:** Claude API, Retell AI (voice)
+      - - **Other:** RevenueCat, Firebase, Google Play Console
+       
+        - ### Links
+       
+        - - Web: [fokuszmester.com](https://fokuszmester.com)
+          - - Forestry Pro: [fokuszmester.com/forestry](https://fokuszmester.com/forestry/)
+            - - Animal Codex: [fokuszmester.com/animalcodex](https://fokuszmester.com/animalcodex/)
+              - - ShoutToGo: [fokuszm## Hi, I'm Zsolt-Peter Olah
+               
+                - Independent software developer from Satu Mare, Romania. I build mobile apps and web platforms that solve real-world problems.
+               
+                - ### What I Build
+               
+                - **Forestry Pro** - Professional forest inventory & timber volume calculator for foresters, timber traders, and researchers. 31 languages, 18 calculation methods, offline-first.
+               
+                - **Animal Codex** - Offline pet health records app. Vaccinations, medications, vet visits, weight tracking — all private, no cloud required.
+               
+                - **ShoutToGo** - Off-grid mesh communication app + hardware. BLE mesh networking, SOS alerts, no internet needed.
+               
+                - **FocusMester** - AI-powered receptionist platform for small businesses. Automated calls, email reports, real-time dashboard.
+               
+                - ### Tech Stack
+               
+                - - **Mobile:** Ionic, React, Capacitor, Kotlin
+                  - - **Frontend:** TypeScript, React, Tailwind CSS
+                    - - **Backend:** Supabase (PostgreSQL, Edge Functions), Node.js
+                      - - **AI/ML:** Claude API, Retell AI (voice)
+                        - - **Other:** RevenueCat, Firebase, Google Play Console
+                         
+                          - ### Links
+                         
+                          - - Web: [fokuszmester.com](https://fokuszmester.com)
+                            - - Forestry Pro: [fokuszmester.com/forestry]
