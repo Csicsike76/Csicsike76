@@ -8,7 +8,7 @@ Independent software developer from Satu Mare, Romania. I build production AI vo
 
 ### Production Projects
 
-**Apaserv AI** — Full production AI phone assistant for a Romanian water utility
+**Water Utility Voice AI** — Production AI phone assistant for a regional water utility company
 - Handles live customer calls in Hungarian and Romanian daily
 - 11+ Supabase Edge Functions for call processing, email notifications, GDPR compliance
 - Retell AI + Twilio IVR integration, AES-256-GCM encryption
